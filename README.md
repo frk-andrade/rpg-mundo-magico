@@ -15,4 +15,4 @@ Se trata de um site no qual o usuário poderá adquirir itens para deixar o seu 
 * Um editor de código (Visual Studio Code, Sublime Text, etc.)
 
 ## Desenvolvido por
-**Franklin Andrade
+*Franklin Andrade
